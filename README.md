@@ -1,4 +1,4 @@
-# Jenkins Prometheus Metrics Plugin
+# Jenkins Prometheus Metrics Plugin - JFR
 
 ## About
 Jenkins Prometheus Plugin expose an endpoint (default `/prometheus`) with metrics where a Prometheus Server can scrape.
